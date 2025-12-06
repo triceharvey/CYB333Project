@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS metadata
+.DS_Store
+
+# Logs exported from Mirth
+*.log
+
+# Backup files
+*.bak
