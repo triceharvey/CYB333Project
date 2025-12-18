@@ -20,3 +20,6 @@ This project adds automated security and integrity checks for HL7 messages insid
 
 Project structure created and initial script scaffolding added.  
 Next steps include linking scripts into a Mirth Connect channel and testing integrity logic.
+
+## Final Submission Note
+This repository reflects the final state of the CYB 333 project, including validated HL7 message testing and exported Mirth channel configuration.
